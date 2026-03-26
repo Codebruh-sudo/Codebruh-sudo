@@ -2,7 +2,7 @@
 
 **GPU Performance Engineer | Kernel Optimization | CUDA Developer**
 
-I work at the intersection of hardware and software — writing high-performance GPU kernels, optimizing memory access patterns, and squeezing every last FLOP out of NVIDIA architectures.
+I work at the intersection of hardware and software writing high-performance GPU kernels, optimizing memory access patterns, and squeezing every last FLOP out of NVIDIA architectures.
 
 ---
 
@@ -10,15 +10,16 @@ I work at the intersection of hardware and software — writing high-performance
 
 **Languages**
 
-`C` `C++` `CUDA` `Python`
+`C` `C++` `CUDA` `Python`, Bash script , 
 
 **GPU & HPC**
 
-`CUDA Programming` `Kernel Optimization` `Parallel Computing` `GPU Architecture (NVIDIA)` `Warp-Level Intrinsics` `Shared Memory Tiling` `Memory Coalescing` `Occupancy Tuning`
+`CUDA Programming` `Kernel Optimization` `Parallel Computing` `GPU Architecture (NVIDIA)` `Warp-Level Intrinsics` `Shared Memory Tiling` `Memory Coalescing` `Occupancy Tuning` etc.
+
 
 **Tools & Profiling**
 
-`NVIDIA Nsight Compute` `NVIDIA Nsight Systems` `nvprof` `Linux` `Git`
+`NVIDIA Nsight Compute` `NVIDIA Nsight Systems` `nvprof` `Linux` `Git`, Docker , Github Actions
 
 **Domains**
 
