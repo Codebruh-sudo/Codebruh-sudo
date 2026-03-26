@@ -2,7 +2,7 @@
 
 **GPU Performance Engineer | Kernel Optimization | CUDA Developer**
 
-I work at the intersection of hardware and software — writing high-performance GPU kernels, optimizing memory access patterns, and squeezing every last FLOP out of NVIDIA architectures. I care deeply about understanding the *why* behind performance, not just the *how*.
+I work at the intersection of hardware and software  writing high-performance GPU kernels, optimizing memory access patterns, and squeezing every last FLOP out of NVIDIA architectures. I care deeply about understanding the *why* behind performance, not just the *how*.
 
 ---
 
@@ -35,13 +35,6 @@ I work at the intersection of hardware and software — writing high-performance
 `CUDA` `C/C++` `Python` `NVIDIA Nsight` `nvprof` `GPU Architecture` `Parallel Computing` `HPC` `Linux`
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codebruh-sudo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codebruh-sudo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
